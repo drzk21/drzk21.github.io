@@ -1,6 +1,6 @@
+---
 layout: page
-title: "RESOURCES"
-permalink: /resources
-
+title: Resources
+permalink: /resources/
 ----
 Test
