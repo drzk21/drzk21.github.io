@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 # Books
-*Deep Utopia* by Nick Bostrom
+*Deep Utopia* by Nick Bostrom \
 *The Precipice* by Toby Ord
 
 # Blog Posts
