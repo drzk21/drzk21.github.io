@@ -8,7 +8,7 @@ permalink: /resources/
 *The Precipice* by Toby Ord
 
 # Blog Posts
-*Five Worlds of AI* by Scott Aaronson and Boaz Barak
+[*Five Worlds of AI*](https://scottaaronson.blog/?p=7266) by Scott Aaronson and Boaz Barak
 
 # Documents
 [*Planning for AGI and beyond*](https://openai.com/index/planning-for-agi-and-beyond/), OpenAI
